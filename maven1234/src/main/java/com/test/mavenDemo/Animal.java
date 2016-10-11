@@ -1,6 +1,9 @@
 package com.test.mavenDemo;
-
+/*
+ * bkbkj
+ */
 public class Animal {
+	
 
 	private int id=-1 ;
 	private String name;
